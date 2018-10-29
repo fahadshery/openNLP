@@ -1,0 +1,4 @@
+<START:asian.person> Abdullah <END> , 3 years old , is my son. I love him so much. 
+He has a younger brother Mr . <START:asian.person> Umair <END> who is just 10 months old. 
+They both like to play in the lounge .
+Their mother <START:asian.person> Annum <END> , 30 years old is training to be a teacher, a former student of Aberdeen university, is now studying at Edinburgh university .
